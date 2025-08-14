@@ -9,3 +9,4 @@
 # ekzamen
 # uyishiexam
 # uyishi
+# malika
