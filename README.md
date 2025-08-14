@@ -8,3 +8,4 @@
 # ekzamen
 # ekzamen
 # uyishiexam
+# uyishi
