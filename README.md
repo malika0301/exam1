@@ -7,14 +7,4 @@
 # экзамен
 # ekzamen
 # ekzamen
-# uyishiexam
-# uyishi
-# malika
-# malika
-# malika
-# malika
-# ex.
-# ex.
-# ex.
-# ex.
-# man
+
